@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-aspect-ratio.codama.dev/sitemap.xml
